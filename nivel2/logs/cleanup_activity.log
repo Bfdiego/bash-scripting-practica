@@ -1,0 +1,89 @@
+===== Limpieza iniciada en 2025-11-17 14:59:51 =====
+2025-11-17 14:59:51 - Archivos encontrados:
+/var/log/vboxadd-install.log
+/var/log/bootstrap.log
+/var/log/journal/e5796b4706494fe78fdccfa95bc07fc2/user-1000@000642f59d1e613a-c7109a8e999a24a2.journal~
+/var/log/journal/e5796b4706494fe78fdccfa95bc07fc2/user-1000@000642f5b85a8977-60fa3f578453d9fb.journal~
+/var/log/journal/e5796b4706494fe78fdccfa95bc07fc2/system@000642f59be22c41-e4d33b5fd1cc0844.journal~
+/var/log/journal/e5796b4706494fe78fdccfa95bc07fc2/system@000642f5ae59d272-c9f67c5cf1767f67.journal~
+/var/log/cloud-init.log
+/var/log/cups/error_log.1
+/var/log/vboxadd-setup.log.2
+/var/log/apport.log
+/var/log/vboxadd-setup.log.1
+/var/log/sysstat/sa06
+/var/log/sysstat/sa15
+/var/log/sysstat/sa08
+/var/log/fontconfig.log
+/var/log/cloud-init-output.log
+/var/log/vboxadd-uninstall.log
+/var/log/lastlog
+/var/log/vboxpostinstall.log
+tar: Removing leading `/' from member names
+tar: /var/log/vboxadd-install.log: Cannot open: Permission denied
+tar: Removing leading `/' from hard link targets
+tar: /var/log/journal/e5796b4706494fe78fdccfa95bc07fc2/system@000642f59be22c41-e4d33b5fd1cc0844.journal~: Cannot open: Permission denied
+tar: /var/log/journal/e5796b4706494fe78fdccfa95bc07fc2/system@000642f5ae59d272-c9f67c5cf1767f67.journal~: Cannot open: Permission denied
+tar: /var/log/cloud-init.log: Cannot open: Permission denied
+tar: /var/log/cups/error_log.1: Cannot open: Permission denied
+tar: /var/log/apport.log: Cannot open: Permission denied
+tar: /var/log/cloud-init-output.log: Cannot open: Permission denied
+tar: /var/log/vboxadd-uninstall.log: Cannot open: Permission denied
+tar: Exiting with failure status due to previous errors
+2025-11-17 14:59:51 - ERROR: Falló la compresión.
+===== Limpieza iniciada en 2025-11-17 15:00:01 =====
+2025-11-17 15:00:01 - Archivos encontrados:
+/var/log/vboxadd-install.log
+/var/log/bootstrap.log
+/var/log/journal/e5796b4706494fe78fdccfa95bc07fc2/user-1000@000642f59d1e613a-c7109a8e999a24a2.journal~
+/var/log/journal/e5796b4706494fe78fdccfa95bc07fc2/user-1000@000642f5b85a8977-60fa3f578453d9fb.journal~
+/var/log/journal/e5796b4706494fe78fdccfa95bc07fc2/system@000642f59be22c41-e4d33b5fd1cc0844.journal~
+/var/log/journal/e5796b4706494fe78fdccfa95bc07fc2/system@000642f5ae59d272-c9f67c5cf1767f67.journal~
+/var/log/cloud-init.log
+/var/log/unattended-upgrades/unattended-upgrades-shutdown.log
+/var/log/installer/block/probe-data.json
+/var/log/installer/block/discover.log
+/var/log/installer/cloud-init.log
+/var/log/installer/installer-journal.txt
+/var/log/installer/curtin-install.log
+/var/log/installer/telemetry
+/var/log/installer/subiquity-server-info.log.3711
+/var/log/installer/media-info
+/var/log/installer/autoinstall-user-data
+/var/log/installer/ubuntu_bootstrap.log.2938
+/var/log/installer/curtin-install/subiquity-initial.conf
+/var/log/installer/curtin-install/subiquity-curtin-apt.conf
+/var/log/installer/curtin-install/subiquity-extract.conf
+/var/log/installer/curtin-install/subiquity-curthooks.conf
+/var/log/installer/curtin-install/subiquity-partitioning.conf
+/var/log/installer/cloud-init-output.log
+/var/log/installer/casper-md5check.json
+/var/log/installer/device-map.json
+/var/log/installer/subiquity-server-debug.log.3711
+/var/log/cups/error_log.1
+/var/log/vboxadd-setup.log.2
+/var/log/apport.log
+/var/log/vboxadd-setup.log.1
+/var/log/sysstat/sa06
+/var/log/sysstat/sa15
+/var/log/sysstat/sa08
+/var/log/fontconfig.log
+/var/log/cloud-init-output.log
+/var/log/vboxadd-uninstall.log
+/var/log/lastlog
+/var/log/vboxpostinstall.log
+tar: Removing leading `/' from member names
+tar: Removing leading `/' from hard link targets
+2025-11-17 15:00:01 - Compresión exitosa: logs_backup_20251117_150001.tar.gz
+2025-11-17 15:00:01 - Archivo movido a nivel2/backup/logs
+2025-11-17 15:00:01 - Archivos originales eliminados.
+===== Limpieza finalizada =====
+===== Limpieza iniciada en 2025-11-17 15:00:56 =====
+2025-11-17 15:00:56 - Archivos encontrados para procesar:
+/home/diego/Desktop/DEVOPS2025/repos/bash-scripting-practica/nivel2/old_app.log
+/home/diego/Desktop/DEVOPS2025/repos/bash-scripting-practica/nivel2/old_error.log
+tar: Removing leading `/' from member names
+tar: Removing leading `/' from hard link targets
+2025-11-17 15:00:56 - Compresión exitosa: /home/diego/Desktop/DEVOPS2025/repos/bash-scripting-practica/nivel2/backup/logs/logs_backup_20251117_150056.tar.gz
+2025-11-17 15:00:56 - Archivos originales eliminados.
+===== Limpieza finalizada =====
